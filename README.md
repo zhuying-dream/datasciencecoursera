@@ -1,2 +1,2 @@
-# datasciencecoursera
+# read me
 Test repository for datasciencecoursera
