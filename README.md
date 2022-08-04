@@ -1,2 +1,2 @@
-## This is a Rmarkdown file.
+# read me
 Test repository for datasciencecoursera
